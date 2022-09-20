@@ -1,0 +1,53 @@
+body {
+    background-color: #eeeee4;
+    font-family: serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1,
+  h2 {
+    font-family: cursive;
+  }
+  
+  #container {
+    width: 70vw;
+    max-width: 1200px;
+    min-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .text-content {
+    font-size: 1.2em;
+  }
+  
+  p.intro {
+    color: #eb6375;
+  }
+  
+  th {
+    background-color: #e28743;
+  }
+  
+  ul {
+    list-style-position: inside;
+  }
+  
+  .menu-link {
+    color: green;
+  }
+  
+  footer a {
+    color: darkblue;
+  }
+  
+  a:hover {
+    color: #e28743;
+    text-decoration: none;
+  }
+  
+  footer {
+    margin-top: 20px;
+  }
+  
